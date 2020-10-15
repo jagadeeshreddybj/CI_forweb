@@ -87,11 +87,7 @@
 	      <name>Jagadeesh Technologies Releases Nexus Repository</name>
 	      <url>http://13.230.34.204:8081/repository/demo/</url>
 	    </repository>
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Jagadeesh Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.230.34.204:8081/repository/maven-snapshots/</url>
-	    </snapshotRepository>
+	    
 	</distributionManagement>
 	
 	
