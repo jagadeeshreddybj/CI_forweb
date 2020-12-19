@@ -81,19 +81,19 @@
 		</dependency>
   </dependencies>
 
-<!-- 	<distributionManagement>
+	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Jagadeesh Technologies Releases Nexus Repository</name>
-	      <url>http://52.197.49.152:8081/repository/demo/</url>
+	      <url>http://54.78.46.150:8081/</url>
 	    </repository>
-	    <snapshotRepository>
+<!-- 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://52.197.49.152:8081/repository/demo-snapshot/</url>
-	    </snapshotRepository>
+	    </snapshotRepository> -->
 	    
-	</distributionManagement> -->
+	</distributionManagement>
 	
 	
   <build>
